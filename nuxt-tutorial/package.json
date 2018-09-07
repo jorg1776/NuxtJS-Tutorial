@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-tutorial",
+  "version": "1.0.0",
+  "description": "Learning nuxtjs",
+  "author": "Jordan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "eslint": "^5.5.0",
+    "nuxt": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
